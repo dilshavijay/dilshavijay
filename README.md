@@ -20,12 +20,6 @@
 
 ---
 
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="Dilsha's Github Stats" src="https://github-readme-stats.dilshavijay.vercel.app/api?username=dilshavijay&show_icons=true&hide_border=true" />
-
-</details>
 
 [twitter]: https://twitter.com/dilshavijay
 [instagram]: https://www.instagram.com/quotes_for_life_motive/
