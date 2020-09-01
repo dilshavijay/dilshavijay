@@ -14,14 +14,18 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left"  | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left"  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left"  | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 ---
 
 <details>
-  <summary>:zap: Recent Github Activity</summary>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="Dilsha's Github Stats" src="https://github-readme-stats.dilshavijay.vercel.app/api?username=dilshavijay&show_icons=true&hide_border=true" />
+
+</details>
 
 [twitter]: https://twitter.com/dilshavijay
 [instagram]: https://www.instagram.com/quotes_for_life_motive/
