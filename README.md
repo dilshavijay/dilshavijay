@@ -20,7 +20,7 @@
 
 
 ---
-
+[![Dilsha's github stats](https://github-readme-stats.vercel.app/api?username=dilshavijay)](https://github.com/anuraghazra/github-readme-stats)
 
 [twitter]: https://twitter.com/dilshavijay
 [instagram]: https://www.instagram.com/quotes_for_life_motive/
