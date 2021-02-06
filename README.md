@@ -2,12 +2,11 @@
 
 ## I'm a Student, Developer !
 
--I'm a budding creator who is looking forward to more oppurtunities.
+- I'm a budding creator who is looking forward to more oppurtunities.
 - 🔭 I’m currently working on a building a website and web design!
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ I love to play keyboard and play read books
--
 
 ### Spotify Playing 🎧
 
